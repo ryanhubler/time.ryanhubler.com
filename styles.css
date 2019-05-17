@@ -1,5 +1,6 @@
 body {
     background-image: url("back.jpg");
+    background-size: cover;
   }
 div.a { 
   color: #FFFFFF; 
