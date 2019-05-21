@@ -4,8 +4,8 @@ body {
   }
 div.a { 
   color: #FFFFFF; 
-  font-size: 40px;
-  font-family: "Monospace";
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px;;
   position: fixed;
   top: 50%;
   left: 50.9%;
