@@ -1,8 +1,6 @@
 body {
     background-image: url("back.jpg");
     background-size: cover;
-    font-family: 'Roboto', sans-serif;
-    font-size: 48px;
   }
 div.a { 
   color: #FFFFFF; 
