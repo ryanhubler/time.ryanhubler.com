@@ -1,5 +1,5 @@
 body {
-    background-image: url("back.jpg");
+    bacround-color: #282828;
     background-size: cover;
   }
 div.a { 
@@ -7,9 +7,5 @@ div.a {
   font-family: 'Roboto', sans-serif;
   font-size: 60px;;
   position: fixed;
-  top: 50%;
-  left: 50.9%;
-  margin-top: -50px;
-  margin-left: -100px;
 }
 
